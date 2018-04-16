@@ -1,5 +1,5 @@
-hello_world
-# Evan Wildenhain
+ hello_world
+# Evan Wildenhain & partner John Sullivan
 Started on 4/18/18
 Lab Section 1
 
